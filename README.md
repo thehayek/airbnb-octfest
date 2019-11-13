@@ -13,13 +13,13 @@ To complete a project within the Data Scientist Nanodegree Program by Udacity as
 
 ## Installation <a name="installation"></a>
 
-The code is in just one jupyter notebook that can be easily run with the Anaconda distribution with Python 3:
+The code is in just one jupyter notebook that can be run with the Anaconda distribution with Python 3:
 
 `jupyter notebook airbnb.ipynb`
 
 ## Results <a name="results"></a>
 
-The main results of the project can be found in the post available [here](https://medium.com/).
+The main results of the project can be found in the post available [here](https://medium.com/@theschadow/airbnb-data-and-the-octoberfest-in-munich-fe3510f7de8c).
 
 ## License <a name="license"></a>
 
